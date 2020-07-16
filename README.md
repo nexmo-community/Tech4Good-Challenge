@@ -42,7 +42,7 @@ To be eligible to receive a $5 Open Collective gift card and be entered into our
 
 ## Code of Conduct
 
-Please note that all submissions must be in keeping with the Repo Code of Conduct.
+Please note that all submissions must be in keeping with the Repo [Code of Conduct](CODE_OF_CONDUCT.MD).
 
 
 If you’ve submitted a PR, why not let us know what you’ve done by tweeting about it and tagging us [@VonageDev](https://twitter.com/vonagedev).
