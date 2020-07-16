@@ -1,4 +1,4 @@
-#EuroPython 2020 #Tech4Good Challenge
+# EuroPython 2020 #Tech4Good Challenge
 
 Vonage is excited to be at EuroPython 2020! Based on Diana’s talk ‘Roadmap to an Open Source Artificial Pancreas Diabetes Monitoring with Flask’ on Thursday, we invite you to use technology to make a difference and enter our Tech4Good challenge!
 
