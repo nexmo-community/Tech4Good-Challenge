@@ -1,6 +1,6 @@
-# EuroPython 2020 #Tech4Good Challenge
+# Hacktoberfest #Tech4Good Challenge
 
-Vonage is excited to be at EuroPython 2020! Based on Diana’s talk ‘Roadmap to an Open Source Artificial Pancreas Diabetes Monitoring with Flask’ on Thursday, we invite you to use technology to make a difference and enter our Tech4Good challenge!
+Vonage is excited to be at Hacktoberfest 2020! Based on Diana’s talk ‘Roadmap to an Open Source Artificial Pancreas Diabetes Monitoring with Flask’.
 
 ## Challenge
 
@@ -25,20 +25,6 @@ Based on the Nightscout notifier app, create a feature or add-on to improve the 
 
 Submit your PR to https://github.com/nexmo-community/nexmo-scout 
 
-## Eligibility Criteria
-
-To be eligible to receive a $5 Open Collective gift card and be entered into our main prize draw for the $250 Nintendo GiftCard your PR must include:
-
-- Code which suggests an improved change for the application
-- Description of what change has been made and why it improves the application
-- Your Discord username to receive your gift card
-- The label EuroPython2020 
-
-## Prizes
-
-- One x $250 Nintendo GiftCard - winner announced by Monday 27th 4pm CEST
-- One eligible submission will be selected at random using Random Picker from all eligible entries to receive a $250 Nintendo GiftCard, the winning entry will be announced on our Twitter account @VonageDev and we will respond to your PR to let you know
-- Each eligible submission will receive a $5 gift card for Open Collective to donate to a project of their choice, we will send you a unique link via discord 
 
 ## Code of Conduct
 
