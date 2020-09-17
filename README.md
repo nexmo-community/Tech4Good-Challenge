@@ -1,6 +1,8 @@
 # Hacktoberfest #Tech4Good Challenge
 
-Vonage is excited to be at Hacktoberfest 2020! Based on Diana’s talk ‘Roadmap to an Open Source Artificial Pancreas Diabetes Monitoring with Flask’.
+Vonage is excited to be at Hacktoberfest 2020! 
+
+This challenge is based on Diana’s talk [‘Roadmap to an Open Source Artificial Pancreas Diabetes Monitoring with Flask’](https://www.youtube.com/watch?v=rMglI4StVLY&feature=youtu.be&t=11086) at EuroPython2020!
 
 ## Challenge
 
