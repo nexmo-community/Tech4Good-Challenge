@@ -1,5 +1,7 @@
 # Tech4Good Challenge
 
+## ❗❗❗ **This repo is now deprecated. Check the [Vonage Developer Blog](https://developer.vonage.com/en/blog) for more blog posts and tutorials. For more sample Vonage projects, check the [Vonage Community GitHub repo](https://github.com/Vonage-Community).**
+
 This challenge is based on Diana’s talks about #Tech4Good and diabetes. One of them being: [‘Roadmap to an Open Source Artificial Pancreas Diabetes Monitoring with Flask’](https://www.youtube.com/watch?v=rMglI4StVLY&feature=youtu.be&t=11086) at EuroPython2020!
 
 ## Challenge
